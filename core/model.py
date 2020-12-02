@@ -37,7 +37,7 @@ import tensorflow as tf
 import word2vec
 #from nltk.tokenize import word_tokenize
 #import nltk
-import pickle
+import pickle  # nosec
 #nltk.download('punkt')
 logger = logging.getLogger()
 
